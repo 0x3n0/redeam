@@ -31,32 +31,4 @@ The open-source projects such as nmap, rustscan, dirsearch, shreder, circl, crow
 - Linux Section to implement major Linux CVEs (UNDER MAINTENANCE)\
 \
 ![Demo](Demo/dashboard.png)
-
-
-## :blue_book: Installation Guide
-You can find the installation guide in the [Installation wiki page](https://github.com/signorrayan/RedTeam_toolkit/wiki/Installation-Guide)
-
-
-## :computer: Demo
-You can find the Demo gifs in the [Demo wiki page](https://github.com/signorrayan/RedTeam_toolkit/wiki/Demo)
-
-
-## :trident: Contributing
-Thanks to all Open-Source projects that helped me in this project .
-
-If 
-- :exclamation: You see any issues 
-- :dizzy: You can make the project works better
-- :bulb: You have any suggestions/ideas such as adding other open-source tools
-- :star2: You have created a script that can add an useful functionality to this project and solve a problem
-
-
-
-Please consider contributing to this project .\
-All Python scripts are placed in `/toolkit/scripts/` .\
-If you want to help us, don't be afraid to contribute! We have many things you can do to help out.\
-To contributing you can create an issue or (better) you can **fork & create a pull request**.
-
-if you do not know where to start, please contact me by email mo.sarayloo@protonmail.com
-
   
